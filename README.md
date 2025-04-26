@@ -2,7 +2,7 @@
 A simple and efficient CRUD (Create, Read, Update, Delete) application built with React.
 This project demonstrates basic CRUD operations in a modern frontend environment, perfect for learning and practicing React fundamentals!
 
-🔗 Live Demo: https://vercel.com/bhuiyannowrins-projects/crud-react-1-0
+🔗 Live Demo: https://crud-react-1-0.vercel.app/
 
 ✨ Features
 ✅ Add new entries (Create)
