@@ -1,0 +1,89 @@
+.sidebar {  
+  width: 150px;  
+  background-color: #b9b4b4;  
+  height: 100vh;  
+  padding: 20px;  
+  position: fixed;
+  
+}
+
+.sidebar h2 {
+  font-size: 20px;  
+  color: black;
+}
+
+.sidebar ul {  
+  list-style: none;  
+  padding: 0;  
+}  
+
+.sidebar ul li {  
+  margin: 15px 0;  
+  color: black;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.sidebar ul li:hover {  
+  background-color: #555;  
+  color: white;  
+}
+
+
+.home-container {  
+  background-color: whitesmoke;
+  margin-left: 170px;
+  padding: 20px;
+  width: 1000px;
+  height: 100vh;
+  
+}
+
+.home-left-side {
+  max-width: 500px;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.home-left-side h1 {
+  color: black;
+}
+
+.home-left-side p {
+  color: #555;
+  font-weight: lighter;
+}
+
+.home-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.home-search-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  max-width: 500px;
+}
+
+.home-search {
+  width: 100%;
+  padding: 10px 10px 10px 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.home-add-button {
+  background-color: black;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+}
+
+.home-add-button:hover {
+  background-color: green;
+}
+
